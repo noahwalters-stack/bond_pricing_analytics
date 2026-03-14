@@ -1,0 +1,5 @@
+bond_id,bond_type,face,coupon_rate,frequency,maturity_date,settlement_date,market_clean_price,tax_rate,day_count
+Corp-A,corporate,1000,0.05,2,2033-03-15,2026-03-14,980,0.0,30/360
+Corp-B,corporate,1000,0.0425,2,2031-09-15,2026-03-14,995,0.0,ACT/360
+Muni-A,municipal,1000,0.035,2,2036-03-15,2026-03-14,1012,0.32,ACT/ACT
+Muni-B,municipal,1000,0.04,2,2041-09-15,2026-03-14,990,0.28,ACT/365
