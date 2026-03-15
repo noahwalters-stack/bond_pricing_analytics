@@ -10,7 +10,7 @@ This is a Python-based bond pricing calculator that computes metrics like YTM, a
 in terminal,
 python3 -m pip install -r requirements.txt
 
-For Mac run:
+For Mac run, open a terminal within the folder and input:
 python3 bond_pricing_analytics.py --input sample_bonds.csv --output bond_report.xlsx
 
 
@@ -19,5 +19,5 @@ python3 bond_pricing_analytics.py --input sample_bonds.csv --output bond_report.
 in terminal/command prompt:
 py -m pip install -r requirements.txt
 
-For Windows run:
+For Windows run, open a terminal/command prompt within the folder and input:
 py bond_pricing_analytics.py --input sample_bonds.csv --output bond_report.xlsx
