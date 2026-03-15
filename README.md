@@ -1,6 +1,6 @@
-**Bond Pricing Analytics by Noah Walters**
+**Bond Pricing Analytics Tool by Noah Walters**
 
-This is a Python-based bond pricing calculator that computes metrics like YTM, accrued interest, durations, and tax-euqivalent yield. The results are generated within an Excel report.
+This is a Python-based bond pricing calculator that computes metrics like YTM, accrued interest, durations, and tax-equivalent yield. The results are generated within an Excel report.
 
 **Requirements**
 - Python 3
